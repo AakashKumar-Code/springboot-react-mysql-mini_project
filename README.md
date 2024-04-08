@@ -20,4 +20,4 @@ The Student System Application is a full-stack web application built using Sprin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-system.git
+git clone https://github.com/AakashKumar-Code/springboot-react-mysql-mini_project
